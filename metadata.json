@@ -1,0 +1,8 @@
+{
+  "name": "스와이프 채용앱 - AI 기반 채용 공고 탐색 & 지원 현황 관리",
+  "description": "Gemini AI로 채용 공고를 분석하고 틴더 스타일 스와이프로 관심 공고를 분류하며 자소서 지원 현황을 체계적으로 관리하는 채용 탐색 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
